@@ -1,0 +1,54 @@
+#my-element{width:850px;
+		height: 500px;
+  position: -webkit-sticky; /* Safari */
+  position: sticky;
+  top: 0;
+  background-color: white;
+  border: 5px solid ;
+  border-radius: 10%;
+  padding:2px;
+	
+}
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh; /* Adjust this value to center vertically */
+	
+}
+
+  .imagel {
+    float: left; /* Float the image to the left */
+    margin-right: 10px; /* Add some margin between the image and text */
+  }
+  
+    .text {
+    overflow: hidden; /* Clear the float */
+  }
+  
+  img{
+	width:500;
+	border:6px solid gray;
+	padding:2px;
+}
+
+body{
+	background-color:white;
+	font-size:20;
+	font-family:David;
+}
+
+.imager {
+    float: right; /* Float the image to the left */
+    margin-right: 10px; /* Add some margin between the image and text */
+  }
+  
+  h3{
+	  background-color:purple;
+	  color:white;
+  }
+
+
+
+	
+
