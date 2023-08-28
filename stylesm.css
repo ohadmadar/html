@@ -33,10 +33,12 @@
 }
 
 body{
-	background-color:white;
+	background:white;
 	font-size:20;
 	font-family:David;
 	padding:50;
+	background-image:  linear-gradient(to right, #ffefba, #ffffff)
+	
 }
 
 .imager {
@@ -48,6 +50,8 @@ body{
 	  background-color:purple;
 	  color:white;
   }
+
+
   
   
 

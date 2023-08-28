@@ -4,7 +4,7 @@ div.gallery {
   margin: 5px;
   border: 1px solid #ccc;
   float: left;
-  width: 180px;
+  width: 300px;
 }
 
 div.gallery:hover {
@@ -24,5 +24,12 @@ div.desc {
 	
 	border:2px solid gray;
 	padding:1px;
+	
 }
+
+  body {
+		background-image: linear-gradient(to right, #FFD194, #D1913C);
+}
+
+
 
